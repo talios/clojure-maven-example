@@ -29,7 +29,7 @@
                         <testSourceDirectory>src/test/clojure</testSourceDirectory>
                     </testSourceDirectories>
 
-                    <script>src/test/clojure/com/run.clj</script>
+                    <script>src/test/clojure/run.clj</script>
                     <testScript>src/test/clojure/test.clj</testScript>
                 </configuration>
                 <executions>
