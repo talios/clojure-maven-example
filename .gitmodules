@@ -1,3 +1,6 @@
 [submodule "submodule/compojure"]
 	path = submodule/compojure
 	url = git://github.com/weavejester/compojure.git
+[submodule "submodule/clojure-http-client"]
+	path = submodule/clojure-http-client
+	url = git://github.com/technomancy/clojure-http-client.git

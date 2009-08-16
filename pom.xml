@@ -26,6 +26,7 @@
                     </sourceDirectories>
 
                     <testSourceDirectories>
+                        <testSourceDirectory>submodule/clojure-http-client/src</testSourceDirectory>
                         <testSourceDirectory>src/test/clojure</testSourceDirectory>
                     </testSourceDirectories>
 
@@ -84,5 +85,12 @@
             <version>6.1.6</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>commons-httpclient</groupId>
+            <artifactId>commons-httpclient</artifactId>
+            <version>3.1</version>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
 </project>
