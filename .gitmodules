@@ -1,0 +1,3 @@
+[submodule "submodule/compojure"]
+	path = submodule/compojure
+	url = git://github.com/weavejester/compojure.git
